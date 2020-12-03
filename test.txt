@@ -6,9 +6,9 @@ add by aviatrix
 
 
 add 2nd update
-<<<<<<< HEAD
-=======
 
 
 add 3rd update
->>>>>>> 101d678 (add 3rd update)
+
+
+and another line
